@@ -1,0 +1,250 @@
+30.7.2022, 22:09:26 - INFO - Server is running on port: 3030 
+30.7.2022, 22:09:32 - INFO - Server is running on port: 3030 
+30.7.2022, 22:09:50 - ERROR - cannot find stories | TypeError: dbService.getCollection(...).toArray is not a function 
+30.7.2022, 22:09:50 - ERROR - Cannot get stories | TypeError: dbService.getCollection(...).toArray is not a function 
+30.7.2022, 22:10:03 - ERROR - cannot find stories | TypeError: dbService.getCollection(...).toArray is not a function 
+30.7.2022, 22:10:03 - ERROR - Cannot get stories | TypeError: dbService.getCollection(...).toArray is not a function 
+30.7.2022, 22:10:13 - ERROR - cannot find stories | TypeError: dbService.getCollection(...).toArray is not a function 
+30.7.2022, 22:10:13 - ERROR - Cannot get stories | TypeError: dbService.getCollection(...).toArray is not a function 
+30.7.2022, 22:13:32 - INFO - Server is running on port: 3030 
+30.7.2022, 22:18:08 - INFO - Server is running on port: 3030 
+30.7.2022, 22:18:13 - ERROR - cannot find stories | TypeError: dbService.getCollection(...).toArray is not a function 
+30.7.2022, 22:18:13 - ERROR - Cannot get stories | TypeError: dbService.getCollection(...).toArray is not a function 
+30.7.2022, 22:18:20 - INFO - Server is running on port: 3030 
+30.7.2022, 22:21:22 - INFO - Server is running on port: 3030 
+30.7.2022, 22:21:42 - INFO - Server is running on port: 3030 
+30.7.2022, 22:21:44 - INFO - Server is running on port: 3030 
+30.7.2022, 22:21:45 - INFO - Server is running on port: 3030 
+30.7.2022, 22:22:08 - ERROR - cannot find stories | TypeError: dbService.getCollection(...).toArray is not a function 
+30.7.2022, 22:22:08 - ERROR - Cannot get stories | TypeError: dbService.getCollection(...).toArray is not a function 
+30.7.2022, 22:22:24 - INFO - Server is running on port: 3030 
+31.7.2022, 15:07:47 - INFO - Server is running on port: 3030 
+31.7.2022, 15:10:23 - ERROR - cannot find stories | TypeError: dbService.getCollection(...).toArray is not a function 
+31.7.2022, 15:10:23 - ERROR - Cannot get stories | TypeError: dbService.getCollection(...).toArray is not a function 
+31.7.2022, 15:18:04 - INFO - Server is running on port: 3030 
+31.7.2022, 15:18:24 - ERROR - Cannot get stories | TypeError: dbService.getCollection(...).toArray is not a function 
+31.7.2022, 15:18:24 - ERROR - cannot find stories | TypeError: dbService.getCollection(...).toArray is not a function 
+31.7.2022, 15:19:40 - INFO - Server is running on port: 3030 
+31.7.2022, 15:19:47 - INFO - Server is running on port: 3030 
+31.7.2022, 15:19:49 - INFO - Server is running on port: 3030 
+31.7.2022, 15:19:54 - ERROR - cannot find stories | TypeError: dbService.getCollection(...).toArray is not a function 
+31.7.2022, 15:19:54 - ERROR - Cannot get stories | TypeError: dbService.getCollection(...).toArray is not a function 
+31.7.2022, 15:22:17 - INFO - Server is running on port: 3030 
+31.7.2022, 15:22:24 - ERROR - cannot find stories | TypeError: dbService.getCollection(...).toArray is not a function 
+31.7.2022, 15:22:24 - ERROR - Cannot get stories | TypeError: dbService.getCollection(...).toArray is not a function 
+31.7.2022, 15:22:54 - ERROR - Cannot Connect to DB | MongoServerSelectionError: bad auth : Authentication failed. 
+31.7.2022, 15:22:54 - ERROR - Failed to get Mongo collection | MongoServerSelectionError: bad auth : Authentication failed. 
+31.7.2022, 15:22:54 - ERROR - cannot find users | MongoServerSelectionError: bad auth : Authentication failed. 
+31.7.2022, 15:22:54 - ERROR - Failed to get users | MongoServerSelectionError: bad auth : Authentication failed. 
+31.7.2022, 15:27:27 - INFO - Server is running on port: 3030 
+31.7.2022, 15:28:05 - INFO - Server is running on port: 3030 
+31.7.2022, 15:28:10 - ERROR - cannot find stories | TypeError: dbService.getCollection(...).toArray is not a function 
+31.7.2022, 15:28:10 - ERROR - Cannot get stories | TypeError: dbService.getCollection(...).toArray is not a function 
+31.7.2022, 15:30:05 - INFO - Server is running on port: 3030 
+31.7.2022, 15:31:50 - ERROR - cannot find stories | TypeError: dbService.getCollection(...).toArray is not a function 
+31.7.2022, 15:31:50 - ERROR - Cannot get stories | TypeError: dbService.getCollection(...).toArray is not a function 
+31.7.2022, 15:33:08 - INFO - Server is running on port: 3030 
+31.7.2022, 15:35:22 - INFO - Server is running on port: 3030 
+31.7.2022, 15:35:37 - ERROR - cannot find stories | TypeError: dbService.getCollection(...).toArray is not a function 
+31.7.2022, 15:35:37 - ERROR - Cannot get stories | TypeError: dbService.getCollection(...).toArray is not a function 
+31.7.2022, 15:35:55 - ERROR - cannot find stories | TypeError: dbService.getCollection(...).toArray is not a function 
+31.7.2022, 15:35:55 - ERROR - Cannot get stories | TypeError: dbService.getCollection(...).toArray is not a function 
+31.7.2022, 15:36:03 - INFO - Server is running on port: 3030 
+31.7.2022, 15:36:34 - INFO - Server is running on port: 3030 
+31.7.2022, 15:36:38 - INFO - Server is running on port: 3030 
+31.7.2022, 15:37:10 - ERROR - Cannot Connect to DB | MongoServerSelectionError: bad auth : Authentication failed. 
+31.7.2022, 15:37:10 - ERROR - Failed to get Mongo collection | MongoServerSelectionError: bad auth : Authentication failed. 
+31.7.2022, 15:37:10 - ERROR - cannot find stories | MongoServerSelectionError: bad auth : Authentication failed. 
+31.7.2022, 15:37:10 - ERROR - Cannot get stories | MongoServerSelectionError: bad auth : Authentication failed. 
+31.7.2022, 15:37:21 - ERROR - Cannot Connect to DB | MongoServerSelectionError: bad auth : Authentication failed. 
+31.7.2022, 15:37:21 - ERROR - cannot find users | MongoServerSelectionError: bad auth : Authentication failed. 
+31.7.2022, 15:37:21 - ERROR - Failed to get users | MongoServerSelectionError: bad auth : Authentication failed. 
+31.7.2022, 15:37:21 - ERROR - Failed to get Mongo collection | MongoServerSelectionError: bad auth : Authentication failed. 
+31.7.2022, 15:37:31 - ERROR - Cannot Connect to DB | MongoServerSelectionError: bad auth : Authentication failed. 
+31.7.2022, 15:37:31 - ERROR - Failed to get Mongo collection | MongoServerSelectionError: bad auth : Authentication failed. 
+31.7.2022, 15:37:31 - ERROR - cannot find stories | MongoServerSelectionError: bad auth : Authentication failed. 
+31.7.2022, 15:37:31 - ERROR - Cannot get stories | MongoServerSelectionError: bad auth : Authentication failed. 
+31.7.2022, 15:37:54 - INFO - Server is running on port: 3030 
+31.7.2022, 15:38:08 - INFO - Server is running on port: 3030 
+31.7.2022, 15:38:31 - INFO - Server is running on port: 3030 
+31.7.2022, 15:39:02 - ERROR - Cannot Connect to DB | MongoServerSelectionError: bad auth : Authentication failed. 
+31.7.2022, 15:39:02 - ERROR - Failed to get Mongo collection | MongoServerSelectionError: bad auth : Authentication failed. 
+31.7.2022, 15:39:02 - ERROR - cannot find users | MongoServerSelectionError: bad auth : Authentication failed. 
+31.7.2022, 15:39:02 - ERROR - Failed to get users | MongoServerSelectionError: bad auth : Authentication failed. 
+31.7.2022, 15:39:07 - ERROR - Cannot Connect to DB | MongoServerSelectionError: bad auth : Authentication failed. 
+31.7.2022, 15:39:07 - ERROR - Failed to get Mongo collection | MongoServerSelectionError: bad auth : Authentication failed. 
+31.7.2022, 15:39:07 - ERROR - cannot find stories | MongoServerSelectionError: bad auth : Authentication failed. 
+31.7.2022, 15:39:07 - ERROR - Cannot get stories | MongoServerSelectionError: bad auth : Authentication failed. 
+31.7.2022, 15:44:40 - INFO - Server is running on port: 3030 
+31.7.2022, 16:04:15 - ERROR - while finding story by id: s101 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 16:04:15 - ERROR - Failed to get story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 16:16:03 - ERROR - while finding story by id: s101 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 16:16:03 - ERROR - Failed to get story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 16:16:21 - ERROR - while finding story by id: u104 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 16:16:21 - ERROR - Failed to get story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 16:16:28 - ERROR - while finding story by id: u101 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 16:16:28 - ERROR - Failed to get story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 16:16:42 - ERROR - Failed to get story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 16:16:42 - ERROR - while finding story by id: u101 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 16:17:06 - ERROR - while finding story by id: u101 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 16:17:06 - ERROR - Failed to get story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 16:18:32 - INFO - Server is running on port: 3030 
+31.7.2022, 16:19:05 - ERROR - while finding story by id: u101 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 16:19:05 - ERROR - Failed to get story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 16:35:20 - ERROR - Failed to get story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 16:35:20 - ERROR - while finding story by id: u104 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 16:35:39 - ERROR - while finding story by id: u102 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 16:35:39 - ERROR - Failed to get story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 16:48:44 - ERROR - while finding story by id: u101 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 16:48:44 - ERROR - Failed to get story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 16:52:55 - INFO - Server is running on port: 3030 
+31.7.2022, 17:02:36 - INFO - Server is running on port: 3030 
+31.7.2022, 17:04:29 - INFO - Server is running on port: 3030 
+31.7.2022, 17:24:59 - ERROR - while finding story by id: u104 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 17:24:59 - ERROR - Failed to get story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 18:28:09 - INFO - Server is running on port: 3030 
+31.7.2022, 18:29:41 - INFO - Server is running on port: 3030 
+31.7.2022, 18:54:19 - INFO - Server is running on port: 3030 
+31.7.2022, 18:55:06 - ERROR - while finding story by id: u102 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 18:55:06 - ERROR - Failed to get story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 19:28:10 - INFO - Server is running on port: 3030 
+31.7.2022, 19:32:13 - ERROR - Cannot Connect to DB | Error: queryTxt ETIMEOUT cluster0.ukwwz4l.mongodb.net 
+31.7.2022, 19:32:13 - ERROR - cannot find users | Error: queryTxt ETIMEOUT cluster0.ukwwz4l.mongodb.net 
+31.7.2022, 19:32:13 - ERROR - cannot find users | Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.ukwwz4l.mongodb.net 
+31.7.2022, 19:32:13 - ERROR - Failed to get users | Error: queryTxt ETIMEOUT cluster0.ukwwz4l.mongodb.net 
+31.7.2022, 19:32:13 - ERROR - Failed to get users | Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.ukwwz4l.mongodb.net 
+31.7.2022, 19:32:13 - ERROR - Failed to get Mongo collection | Error: queryTxt ETIMEOUT cluster0.ukwwz4l.mongodb.net 
+31.7.2022, 19:32:13 - ERROR - Failed to get Mongo collection | Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.ukwwz4l.mongodb.net 
+31.7.2022, 19:32:13 - ERROR - Cannot Connect to DB | Error: querySrv ETIMEOUT _mongodb._tcp.cluster0.ukwwz4l.mongodb.net 
+31.7.2022, 19:32:48 - ERROR - Cannot Connect to DB | Error: queryTxt ETIMEOUT cluster0.ukwwz4l.mongodb.net 
+31.7.2022, 19:32:48 - ERROR - Failed to get Mongo collection | Error: queryTxt ETIMEOUT cluster0.ukwwz4l.mongodb.net 
+31.7.2022, 19:32:48 - ERROR - cannot find stories | Error: queryTxt ETIMEOUT cluster0.ukwwz4l.mongodb.net 
+31.7.2022, 19:32:48 - ERROR - Cannot get stories | Error: queryTxt ETIMEOUT cluster0.ukwwz4l.mongodb.net 
+31.7.2022, 19:44:35 - INFO - Server is running on port: 3030 
+31.7.2022, 19:49:42 - INFO - Server is running on port: 3030 
+31.7.2022, 19:50:03 - INFO - Server is running on port: 3030 
+31.7.2022, 19:50:24 - INFO - Server is running on port: 3030 
+31.7.2022, 20:01:17 - INFO - Server is running on port: 3030 
+31.7.2022, 20:05:20 - INFO - Server is running on port: 3030 
+31.7.2022, 20:06:22 - INFO - Server is running on port: 3030 
+31.7.2022, 20:25:20 - INFO - Server is running on port: 3030 
+31.7.2022, 20:30:17 - INFO - Server is running on port: 3030 
+31.7.2022, 20:32:09 - INFO - Server is running on port: 3030 
+31.7.2022, 20:50:09 - INFO - Server is running on port: 3030 
+31.7.2022, 21:40:01 - INFO - Server is running on port: 3030 
+31.7.2022, 22:13:34 - INFO - Server is running on port: 3030 
+31.7.2022, 22:16:28 - ERROR - cannot update story u104 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 22:16:28 - ERROR - Failed to update story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 22:37:44 - INFO - Server is running on port: 3030 
+31.7.2022, 23:06:20 - ERROR - while finding story by id: undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 23:06:20 - ERROR - Failed to get story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 23:06:46 - ERROR - Failed to get story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 23:06:46 - ERROR - while finding story by id: u106 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 23:06:51 - ERROR - while finding story by id: u106 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 23:06:51 - ERROR - Failed to get story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 23:21:14 - ERROR - while finding story by id: u104 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 23:21:14 - ERROR - Failed to get story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 23:21:23 - ERROR - Failed to get story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+31.7.2022, 23:21:23 - ERROR - while finding story by id: u104 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 0:17:14 - INFO - Server is running on port: 3030 
+1.8.2022, 0:21:43 - ERROR - cannot update story u104 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 0:21:43 - ERROR - Failed to update story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 0:21:59 - ERROR - cannot update story u104 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 0:21:59 - ERROR - Failed to update story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 0:24:40 - INFO - Server is running on port: 3030 
+1.8.2022, 0:27:19 - INFO - Server is running on port: 3030 
+1.8.2022, 0:27:47 - ERROR - cannot update story u104 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 0:27:47 - ERROR - Failed to update story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 0:29:00 - ERROR - Failed to get story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 0:29:00 - ERROR - while finding story by id: u104 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 0:29:08 - ERROR - while finding story by id: u104 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 0:29:08 - ERROR - Failed to get story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 0:29:18 - ERROR - cannot update story u104 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 0:29:18 - ERROR - Failed to update story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 0:39:34 - ERROR - cannot update story u104 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 0:39:34 - ERROR - Failed to update story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 0:39:50 - ERROR - cannot update story u104 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 0:39:50 - ERROR - Failed to update story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 0:48:04 - ERROR - cannot update story 104 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 0:48:04 - ERROR - Failed to update story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 0:50:13 - ERROR - cannot update story u104 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 0:50:13 - ERROR - Failed to update story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 0:50:42 - ERROR - cannot update story u104 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 0:50:42 - ERROR - Failed to update story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 0:59:31 - ERROR - cannot update story u104 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 0:59:31 - ERROR - Failed to update story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 1:13:42 - INFO - Server is running on port: 3030 
+1.8.2022, 1:16:50 - INFO - Server is running on port: 3030 
+1.8.2022, 1:20:02 - ERROR - while finding story by id: u104 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 1:20:02 - ERROR - Failed to get story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 1:20:25 - ERROR - while finding story by id: u104 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 1:20:25 - ERROR - Failed to get story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 1:20:47 - ERROR - while finding story by id: u104 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 1:20:47 - ERROR - Failed to get story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 1:20:50 - ERROR - while finding story by id: u104 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 1:20:50 - ERROR - Failed to get story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 9:42:10 - INFO - Server is running on port: 3030 
+1.8.2022, 10:44:09 - ERROR - cannot update story u104 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 10:44:09 - ERROR - Failed to update story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 11:42:11 - ERROR - cannot update story u104 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 11:42:11 - ERROR - Failed to update story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 11:47:48 - ERROR - cannot update story u104 | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 11:47:48 - ERROR - Failed to update story | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+1.8.2022, 12:23:08 - INFO - Server is running on port: 3030 
+1.8.2022, 12:25:30 - INFO - Server is running on port: 3030 
+1.8.2022, 12:26:37 - INFO - Server is running on port: 3030 
+1.8.2022, 12:27:17 - INFO - Server is running on port: 3030 
+1.8.2022, 12:27:55 - INFO - Server is running on port: 3030 
+1.8.2022, 12:37:30 - INFO - Server is running on port: 3030 
+1.8.2022, 12:40:10 - INFO - Server is running on port: 3030 
+1.8.2022, 12:49:26 - INFO - Server is running on port: 3030 
+1.8.2022, 12:49:50 - INFO - Server is running on port: 3030 
+1.8.2022, 12:51:30 - INFO - Server is running on port: 3030 
+1.8.2022, 12:53:21 - INFO - Server is running on port: 3030 
+1.8.2022, 14:28:54 - INFO - Server is running on port: 3030 
+1.8.2022, 15:59:21 - INFO - Server is running on port: 3030 
+1.8.2022, 16:05:24 - INFO - Server is running on port: 3030 
+1.8.2022, 16:12:30 - INFO - Server is running on port: 3030 
+1.8.2022, 16:16:44 - INFO - Server is running on port: 3030 
+1.8.2022, 16:20:54 - DEBUG - auth.service - login with username: ross_ 
+1.8.2022, 16:20:54 - ERROR - Failed to Login Invalid username or password 
+1.8.2022, 17:33:58 - INFO - Server is running on port: 3030 
+1.8.2022, 18:47:53 - INFO - Server is running on port: 3030 
+1.8.2022, 18:56:06 - INFO - Server is running on port: 3030 
+1.8.2022, 18:56:36 - INFO - Server is running on port: 3030 
+1.8.2022, 18:56:39 - INFO - Server is running on port: 3030 
+1.8.2022, 19:51:40 - INFO - Server is running on port: 3030 
+3.10.2022, 18:13:46 - INFO - Server is running on port: 3030 
+5.10.2022, 14:55:00 - ERROR - cannot find stories | MongoServerSelectionError: getaddrinfo ENOTFOUND ac-zb29tra-shard-00-00.ukwwz4l.mongodb.net 
+5.10.2022, 14:55:00 - ERROR - Cannot get stories | MongoServerSelectionError: getaddrinfo ENOTFOUND ac-zb29tra-shard-00-00.ukwwz4l.mongodb.net 
+5.10.2022, 14:55:17 - ERROR - cannot find stories | MongoServerSelectionError: getaddrinfo ENOTFOUND ac-zb29tra-shard-00-00.ukwwz4l.mongodb.net 
+5.10.2022, 14:55:17 - ERROR - Failed to get users | MongoServerSelectionError: getaddrinfo ENOTFOUND ac-zb29tra-shard-00-00.ukwwz4l.mongodb.net 
+5.10.2022, 14:55:17 - ERROR - Cannot get stories | MongoServerSelectionError: getaddrinfo ENOTFOUND ac-zb29tra-shard-00-00.ukwwz4l.mongodb.net 
+5.10.2022, 14:55:17 - ERROR - cannot find users | MongoServerSelectionError: getaddrinfo ENOTFOUND ac-zb29tra-shard-00-00.ukwwz4l.mongodb.net 
+9.11.2022, 15:01:08 - INFO - Server is running on port: 3030 
+9.11.2022, 16:06:55 - INFO - Server is running on port: 3030 
+1.12.2022, 9:15:39 - INFO - Server is running on port: 3030 
+2.12.2022, 10:13:08 - INFO - Server is running on port: 3030 
+2.12.2022, 10:17:18 - INFO - Server is running on port: 3030 
+2.12.2022, 10:33:31 - INFO - Server is running on port: 3030 
+2.12.2022, 10:34:07 - INFO - Server is running on port: 3030 
+2.12.2022, 16:31:47 - INFO - Server is running on port: 3030 
+2.12.2022, 18:37:32 - INFO - Server is running on port: 3030 
+2.12.2022, 18:41:25 - INFO - Server is running on port: 3030 
+2.12.2022, 18:42:03 - INFO - Server is running on port: 3030 
+2.12.2022, 23:39:01 - INFO - Server is running on port: 3030 
+3.12.2022, 10:14:00 - INFO - Server is running on port: 3030 
+31.12.2022, 16:53:08 - INFO - Server is running on port: 3030 
+31.12.2022, 16:53:14 - INFO - New connected socket [id: dZLMLTPSnLKP3_9pAAAB] 
+6.1.2023, 22:40:41 - INFO - Server is running on port: 3030 
+6.1.2023, 22:42:47 - INFO - Server is running on port: 3030 
+6.1.2023, 22:51:22 - INFO - Server is running on port: 3030 
+6.1.2023, 23:08:31 - INFO - Server is running on port: 3030 
+6.1.2023, 23:17:18 - ERROR - while finding block by id: undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.1.2023, 23:17:18 - ERROR - Failed to get Block | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.1.2023, 23:17:27 - ERROR - while finding block by id: undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.1.2023, 23:17:27 - ERROR - Failed to get Block | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.1.2023, 23:17:30 - ERROR - while finding block by id: undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.1.2023, 23:17:30 - ERROR - Failed to get Block | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.1.2023, 23:17:34 - ERROR - while finding block by id: undefined | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
+6.1.2023, 23:17:34 - ERROR - Failed to get Block | Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters 
