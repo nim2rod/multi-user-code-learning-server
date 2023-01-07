@@ -1,9 +1,7 @@
 const logger = require('./logger.service')
 
 var gIo = null
-var connectedUsers = []
-let gIsMentor = true
-const msgs = []
+let userNumInTopic = 0
 
 function setupSocketAPI(http) {
     gIo = require('socket.io')(http, {
@@ -14,10 +12,9 @@ function setupSocketAPI(http) {
     gIo.on('connection', socket => {
         logger.info(`New connected socket [id: ${socket.id}]`)
 
+
         socket.on('disconnect', socket => {
             logger.info(`Socket disconnected [id: ${socket.id}]`)
-            // connectedUsers = connectedUsers.pop(socket.id)
-            // gIo.to(socket.myTopic).emit('connectedUsers', connectedUsers)
         })
         socket.on('set-topic-socket', topic => {
             if (socket.myTopic === topic) return
@@ -27,10 +24,15 @@ function setupSocketAPI(http) {
             }
             socket.join(topic)
             socket.myTopic = topic
+            gIo.to(socket.myTopic).emit('userNum', userNumInTopic)
+            userNumInTopic++
+        })
+        socket.on('on-leave-topic', topic => {
+            socket.leave(socket.myTopic)
+            logger.info(`Socket is leaving topic ${socket.myTopic} [id: ${socket.id}]`)
+            socket.myTopic = null
 
-            gIo.to(socket.myTopic).emit('mentor', gIsMentor)
-            gIsMentor = false
-            // connectedUsers.push(socket.id)
+            userNumInTopic--
         })
         socket.on('student-change-code', msg => {
             logger.info(`New chat msg from socket [id: ${socket.id}], emitting to topic ${socket.myTopic}`)
