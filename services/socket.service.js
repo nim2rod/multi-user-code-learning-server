@@ -1,6 +1,9 @@
 const logger = require('./logger.service')
 
 var gIo = null
+var connectedUsers = []
+let gIsMentor = true
+const msgs = []
 
 function setupSocketAPI(http) {
     gIo = require('socket.io')(http, {
@@ -13,6 +16,8 @@ function setupSocketAPI(http) {
 
         socket.on('disconnect', socket => {
             logger.info(`Socket disconnected [id: ${socket.id}]`)
+            // connectedUsers = connectedUsers.pop(socket.id)
+            // gIo.to(socket.myTopic).emit('connectedUsers', connectedUsers)
         })
         socket.on('set-topic-socket', topic => {
             if (socket.myTopic === topic) return
@@ -22,6 +27,10 @@ function setupSocketAPI(http) {
             }
             socket.join(topic)
             socket.myTopic = topic
+
+            gIo.to(socket.myTopic).emit('mentor', gIsMentor)
+            gIsMentor = false
+            // connectedUsers.push(socket.id)
         })
         socket.on('student-change-code', msg => {
             logger.info(`New chat msg from socket [id: ${socket.id}], emitting to topic ${socket.myTopic}`)
