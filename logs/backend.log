@@ -1736,3 +1736,88 @@
 8.1.2023, 2:00:44 - INFO - New connected socket [id: Lr6h9m9Y8xfzlHfEAAAB] 
 8.1.2023, 2:01:00 - INFO - Server is running on port: 3030 
 8.1.2023, 2:01:00 - INFO - New connected socket [id: ZLnycQW8uEPbEe3rAAAB] 
+8.1.2023, 10:12:54 - INFO - Server is running on port: 3030 
+8.1.2023, 10:13:12 - INFO - New connected socket [id: uxVYuww_lDjb__JwAAAB] 
+8.1.2023, 10:14:59 - INFO - Socket is leaving topic Array.findIndex() [id: uxVYuww_lDjb__JwAAAB] 
+8.1.2023, 10:15:00 - INFO - Socket disconnected [id: undefined] 
+8.1.2023, 10:15:00 - INFO - New connected socket [id: Hw9w_qkF2W6NoqGmAAAD] 
+8.1.2023, 10:15:07 - INFO - Socket is leaving topic Array.findIndex() [id: Hw9w_qkF2W6NoqGmAAAD] 
+8.1.2023, 10:15:11 - INFO - New connected socket [id: _ZlRQ7fGpHn-TsjxAAAF] 
+8.1.2023, 10:15:17 - INFO - New chat msg from socket [id: Hw9w_qkF2W6NoqGmAAAD], emitting to topic Array.findIndex() 
+8.1.2023, 10:15:17 - INFO - New chat msg from socket [id: Hw9w_qkF2W6NoqGmAAAD], emitting to topic Array.findIndex() 
+8.1.2023, 10:15:17 - INFO - New chat msg from socket [id: Hw9w_qkF2W6NoqGmAAAD], emitting to topic Array.findIndex() 
+8.1.2023, 10:15:18 - INFO - New chat msg from socket [id: Hw9w_qkF2W6NoqGmAAAD], emitting to topic Array.findIndex() 
+8.1.2023, 10:15:19 - INFO - New chat msg from socket [id: Hw9w_qkF2W6NoqGmAAAD], emitting to topic Array.findIndex() 
+8.1.2023, 10:16:03 - INFO - Socket is leaving topic Array.findIndex() [id: Hw9w_qkF2W6NoqGmAAAD] 
+8.1.2023, 10:16:05 - INFO - Socket is leaving topic Array.findIndex() [id: _ZlRQ7fGpHn-TsjxAAAF] 
+8.1.2023, 10:16:14 - INFO - New chat msg from socket [id: Hw9w_qkF2W6NoqGmAAAD], emitting to topic Array.findIndex() 
+8.1.2023, 10:16:14 - INFO - New chat msg from socket [id: Hw9w_qkF2W6NoqGmAAAD], emitting to topic Array.findIndex() 
+8.1.2023, 10:16:14 - INFO - New chat msg from socket [id: Hw9w_qkF2W6NoqGmAAAD], emitting to topic Array.findIndex() 
+8.1.2023, 10:16:28 - INFO - New chat msg from socket [id: Hw9w_qkF2W6NoqGmAAAD], emitting to topic Array.findIndex() 
+8.1.2023, 10:16:30 - INFO - New chat msg from socket [id: Hw9w_qkF2W6NoqGmAAAD], emitting to topic Array.findIndex() 
+8.1.2023, 10:16:30 - INFO - New chat msg from socket [id: Hw9w_qkF2W6NoqGmAAAD], emitting to topic Array.findIndex() 
+8.1.2023, 10:16:30 - INFO - New chat msg from socket [id: Hw9w_qkF2W6NoqGmAAAD], emitting to topic Array.findIndex() 
+8.1.2023, 10:16:30 - INFO - New chat msg from socket [id: Hw9w_qkF2W6NoqGmAAAD], emitting to topic Array.findIndex() 
+8.1.2023, 10:16:31 - INFO - New chat msg from socket [id: Hw9w_qkF2W6NoqGmAAAD], emitting to topic Array.findIndex() 
+8.1.2023, 10:16:31 - INFO - New chat msg from socket [id: Hw9w_qkF2W6NoqGmAAAD], emitting to topic Array.findIndex() 
+8.1.2023, 10:16:32 - INFO - New chat msg from socket [id: Hw9w_qkF2W6NoqGmAAAD], emitting to topic Array.findIndex() 
+8.1.2023, 10:16:32 - INFO - New chat msg from socket [id: Hw9w_qkF2W6NoqGmAAAD], emitting to topic Array.findIndex() 
+8.1.2023, 10:16:32 - INFO - New chat msg from socket [id: Hw9w_qkF2W6NoqGmAAAD], emitting to topic Array.findIndex() 
+8.1.2023, 10:16:42 - INFO - Socket is leaving topic Array.findIndex() [id: Hw9w_qkF2W6NoqGmAAAD] 
+8.1.2023, 10:16:50 - INFO - New chat msg from socket [id: Hw9w_qkF2W6NoqGmAAAD], emitting to topic Array.findIndex() 
+8.1.2023, 10:18:01 - INFO - New chat msg from socket [id: Hw9w_qkF2W6NoqGmAAAD], emitting to topic Array.findIndex() 
+8.1.2023, 10:18:19 - INFO - New chat msg from socket [id: Hw9w_qkF2W6NoqGmAAAD], emitting to topic Array.findIndex() 
+8.1.2023, 10:18:24 - INFO - New chat msg from socket [id: Hw9w_qkF2W6NoqGmAAAD], emitting to topic Array.findIndex() 
+8.1.2023, 10:20:30 - INFO - New chat msg from socket [id: Hw9w_qkF2W6NoqGmAAAD], emitting to topic Array.findIndex() 
+8.1.2023, 10:20:30 - INFO - New chat msg from socket [id: Hw9w_qkF2W6NoqGmAAAD], emitting to topic Array.findIndex() 
+8.1.2023, 10:22:26 - INFO - Socket disconnected [id: undefined] 
+8.1.2023, 10:22:26 - INFO - New connected socket [id: 48ducQ1cie17ULD0AAAH] 
+8.1.2023, 10:22:30 - INFO - New chat msg from socket [id: 48ducQ1cie17ULD0AAAH], emitting to topic Array.findIndex() 
+8.1.2023, 10:23:56 - INFO - New chat msg from socket [id: 48ducQ1cie17ULD0AAAH], emitting to topic Array.findIndex() 
+8.1.2023, 10:24:00 - INFO - New chat msg from socket [id: 48ducQ1cie17ULD0AAAH], emitting to topic Array.findIndex() 
+8.1.2023, 10:27:04 - INFO - Socket disconnected [id: undefined] 
+8.1.2023, 10:27:04 - INFO - New connected socket [id: OvC_5Z6tHESJ5AV9AAAJ] 
+8.1.2023, 10:27:06 - INFO - New chat msg from socket [id: OvC_5Z6tHESJ5AV9AAAJ], emitting to topic Array.findIndex() 
+8.1.2023, 10:27:53 - INFO - New chat msg from socket [id: OvC_5Z6tHESJ5AV9AAAJ], emitting to topic Array.findIndex() 
+8.1.2023, 10:27:54 - INFO - New chat msg from socket [id: OvC_5Z6tHESJ5AV9AAAJ], emitting to topic Array.findIndex() 
+8.1.2023, 10:27:54 - INFO - New chat msg from socket [id: OvC_5Z6tHESJ5AV9AAAJ], emitting to topic Array.findIndex() 
+8.1.2023, 10:27:54 - INFO - New chat msg from socket [id: OvC_5Z6tHESJ5AV9AAAJ], emitting to topic Array.findIndex() 
+8.1.2023, 10:32:46 - INFO - New chat msg from socket [id: OvC_5Z6tHESJ5AV9AAAJ], emitting to topic Array.findIndex() 
+8.1.2023, 10:32:46 - INFO - New chat msg from socket [id: OvC_5Z6tHESJ5AV9AAAJ], emitting to topic Array.findIndex() 
+8.1.2023, 10:32:46 - INFO - New chat msg from socket [id: OvC_5Z6tHESJ5AV9AAAJ], emitting to topic Array.findIndex() 
+8.1.2023, 10:32:46 - INFO - New chat msg from socket [id: OvC_5Z6tHESJ5AV9AAAJ], emitting to topic Array.findIndex() 
+8.1.2023, 10:32:47 - INFO - New chat msg from socket [id: OvC_5Z6tHESJ5AV9AAAJ], emitting to topic Array.findIndex() 
+8.1.2023, 10:32:47 - INFO - New chat msg from socket [id: OvC_5Z6tHESJ5AV9AAAJ], emitting to topic Array.findIndex() 
+8.1.2023, 10:32:49 - INFO - New chat msg from socket [id: OvC_5Z6tHESJ5AV9AAAJ], emitting to topic Array.findIndex() 
+8.1.2023, 10:33:31 - INFO - Socket is leaving topic Array.findIndex() [id: OvC_5Z6tHESJ5AV9AAAJ] 
+8.1.2023, 10:33:37 - INFO - Socket is leaving topic Array.includes() [id: OvC_5Z6tHESJ5AV9AAAJ] 
+8.1.2023, 10:33:41 - INFO - Socket is leaving topic Array.findIndex() [id: _ZlRQ7fGpHn-TsjxAAAF] 
+8.1.2023, 10:33:42 - INFO - Socket disconnected [id: undefined] 
+8.1.2023, 10:33:42 - INFO - New connected socket [id: LbJMZS8Rm8CbBGooAAAL] 
+8.1.2023, 10:33:44 - INFO - Socket disconnected [id: undefined] 
+8.1.2023, 10:33:45 - INFO - New connected socket [id: PjvSohRoiveY5DThAAAN] 
+8.1.2023, 10:33:55 - INFO - Socket is leaving topic Array.includes() [id: PjvSohRoiveY5DThAAAN] 
+8.1.2023, 10:33:57 - INFO - Socket disconnected [id: undefined] 
+8.1.2023, 10:33:57 - INFO - New connected socket [id: ThBVNk0RZTOVOCzAAAAP] 
+8.1.2023, 10:33:58 - INFO - Socket disconnected [id: undefined] 
+8.1.2023, 10:33:59 - INFO - New connected socket [id: 3fN8Uzm5daR_XRCRAAAR] 
+8.1.2023, 10:34:17 - INFO - Server is running on port: 3030 
+8.1.2023, 10:34:20 - INFO - New connected socket [id: wS2yrHfHLQK4tFiUAAAB] 
+8.1.2023, 10:34:20 - INFO - Socket is leaving topic undefined [id: wS2yrHfHLQK4tFiUAAAB] 
+8.1.2023, 10:34:20 - INFO - New connected socket [id: WwYs3mcgkaRglPYzAAAD] 
+8.1.2023, 10:34:29 - INFO - Socket is leaving topic Array.findIndex() [id: wS2yrHfHLQK4tFiUAAAB] 
+8.1.2023, 10:34:42 - INFO - Server is running on port: 3030 
+8.1.2023, 10:34:43 - INFO - New connected socket [id: xMCMJ00x4Zo33YzdAAAB] 
+8.1.2023, 10:34:47 - INFO - New connected socket [id: GQMa03XauFBFTRAWAAAD] 
+8.1.2023, 10:34:53 - INFO - Socket is leaving topic Array.findIndex() [id: GQMa03XauFBFTRAWAAAD] 
+8.1.2023, 10:34:55 - INFO - Socket is leaving topic Array.findIndex() [id: xMCMJ00x4Zo33YzdAAAB] 
+8.1.2023, 10:35:01 - INFO - Socket is leaving topic Array.includes() [id: GQMa03XauFBFTRAWAAAD] 
+8.1.2023, 10:35:03 - INFO - Socket is leaving topic Array.includes() [id: xMCMJ00x4Zo33YzdAAAB] 
+8.1.2023, 10:35:11 - INFO - New chat msg from socket [id: xMCMJ00x4Zo33YzdAAAB], emitting to topic Array.find() 
+8.1.2023, 10:35:14 - INFO - New chat msg from socket [id: xMCMJ00x4Zo33YzdAAAB], emitting to topic Array.find() 
+8.1.2023, 10:35:14 - INFO - New chat msg from socket [id: xMCMJ00x4Zo33YzdAAAB], emitting to topic Array.find() 
+8.1.2023, 10:35:16 - INFO - New chat msg from socket [id: xMCMJ00x4Zo33YzdAAAB], emitting to topic Array.find() 
+8.1.2023, 10:35:16 - INFO - New chat msg from socket [id: xMCMJ00x4Zo33YzdAAAB], emitting to topic Array.find() 
+8.1.2023, 10:35:17 - INFO - Socket is leaving topic Array.find() [id: xMCMJ00x4Zo33YzdAAAB] 
+8.1.2023, 10:36:27 - INFO - Socket disconnected [id: undefined] 
+8.1.2023, 10:36:28 - INFO - Socket disconnected [id: undefined] 
