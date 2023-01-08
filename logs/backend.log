@@ -1821,3 +1821,26 @@
 8.1.2023, 10:35:17 - INFO - Socket is leaving topic Array.find() [id: xMCMJ00x4Zo33YzdAAAB] 
 8.1.2023, 10:36:27 - INFO - Socket disconnected [id: undefined] 
 8.1.2023, 10:36:28 - INFO - Socket disconnected [id: undefined] 
+8.1.2023, 12:58:08 - INFO - Server is running on port: 3030 
+8.1.2023, 12:58:19 - INFO - New connected socket [id: 54SQkr2BVP3MTJOOAAAB] 
+8.1.2023, 12:58:45 - INFO - Socket is leaving topic Array.findIndex() [id: 54SQkr2BVP3MTJOOAAAB] 
+8.1.2023, 12:58:56 - INFO - New connected socket [id: P5uGy0ZbHn1n3SYwAAAD] 
+8.1.2023, 12:58:59 - INFO - New chat msg from socket [id: P5uGy0ZbHn1n3SYwAAAD], emitting to topic Array.findIndex() 
+8.1.2023, 12:58:59 - INFO - New chat msg from socket [id: P5uGy0ZbHn1n3SYwAAAD], emitting to topic Array.findIndex() 
+8.1.2023, 13:01:18 - INFO - Socket is leaving topic Array.findIndex() [id: P5uGy0ZbHn1n3SYwAAAD] 
+8.1.2023, 13:01:25 - INFO - Socket is leaving topic Array.findIndex() [id: 54SQkr2BVP3MTJOOAAAB] 
+8.1.2023, 13:02:37 - INFO - Socket is leaving topic Array.includes() [id: P5uGy0ZbHn1n3SYwAAAD] 
+8.1.2023, 13:02:39 - INFO - Socket disconnected [id: undefined] 
+8.1.2023, 13:02:39 - INFO - New connected socket [id: NAxKI8JPNXDvNH03AAAF] 
+8.1.2023, 13:02:41 - INFO - New chat msg from socket [id: NAxKI8JPNXDvNH03AAAF], emitting to topic Array.findIndex() 
+8.1.2023, 13:02:42 - INFO - New chat msg from socket [id: NAxKI8JPNXDvNH03AAAF], emitting to topic Array.findIndex() 
+8.1.2023, 13:02:43 - INFO - New chat msg from socket [id: NAxKI8JPNXDvNH03AAAF], emitting to topic Array.findIndex() 
+8.1.2023, 13:02:43 - INFO - New chat msg from socket [id: NAxKI8JPNXDvNH03AAAF], emitting to topic Array.findIndex() 
+8.1.2023, 13:06:10 - INFO - Socket is leaving topic Array.findIndex() [id: NAxKI8JPNXDvNH03AAAF] 
+8.1.2023, 13:06:26 - INFO - Socket is leaving topic Array.findIndex() [id: NAxKI8JPNXDvNH03AAAF] 
+8.1.2023, 13:06:54 - INFO - New chat msg from socket [id: NAxKI8JPNXDvNH03AAAF], emitting to topic Array.findIndex() 
+8.1.2023, 13:06:54 - INFO - New chat msg from socket [id: NAxKI8JPNXDvNH03AAAF], emitting to topic Array.findIndex() 
+8.1.2023, 13:06:56 - INFO - New chat msg from socket [id: NAxKI8JPNXDvNH03AAAF], emitting to topic Array.findIndex() 
+8.1.2023, 13:11:39 - INFO - Server is running on port: 3030 
+8.1.2023, 13:11:40 - INFO - New connected socket [id: mY30NLm6nvyHvvw3AAAB] 
+8.1.2023, 13:11:41 - INFO - New connected socket [id: HPk4DTw6kCXZEUajAAAD] 
